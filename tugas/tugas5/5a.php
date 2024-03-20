@@ -18,10 +18,66 @@ $mahasiswa = [
 
     [
         "nama" => "Slamet Kopling",
-        "nrp" => "283040067",
+        "nrp" => "283040078",
         "email" => "slamet@gmail.com",
-        "jurusan" => "Teknik Permokelan",
+        "jurusan" => "Teknik Mesin",
         "gambar" => "slamet.jpg",
+    ],
+
+    [
+        "nama" => "Lambang Wicaksono",
+        "nrp" => "283040696",
+        "email" => "lambang@gmail.com",
+        "jurusan" => "Sastra Inggris",
+        "gambar" => "lambang.jpg",
+    ],
+
+    [
+        "nama" => "Wiki Siambutar",
+        "nrp" => "283040045",
+        "email" => "wiki@gmail.com",
+        "jurusan" => "Sastra Sunda",
+        "gambar" => "wiki.jpg",
+    ],
+
+    [
+        "nama" => "Jingin Gilpit",
+        "nrp" => "283040009",
+        "email" => "jingin@gmail.com",
+        "jurusan" => "Ilmu Hukum",
+        "gambar" => "jingin.jpg",
+    ],
+
+    [
+        "nama" => "Ginanjar Pramulya",
+        "nrp" => "283040008",
+        "email" => "ginanjar@gmail.com",
+        "jurusan" => "Teknik Kimia",
+        "gambar" => "ginanjar.jpg",
+    ],
+
+    [
+        "nama" => "Penaldo JR",
+        "nrp" => "283040007",
+        "email" => "penaldo@gmail.com",
+        "jurusan" => "Arsitektur",
+        "gambar" => "penaldo.jpg",
+    ],
+
+    [
+        "nama" => "Pessi",
+        "nrp" => "283040006",
+        "email" => "pessi@gmail.com",
+        "jurusan" => "Sastra Mesin",
+        "gambar" => "pessi.jpg",
+    ],
+
+    [
+        "nama" => "Puan Maharaja",
+        "nrp" => "283040005",
+        "email" => "puan@gmail.com",
+        "jurusan" => "Teknik Industri",
+        "gambar" => "puan.png",
     ],
 ]
 ?>
